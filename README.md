@@ -1,4 +1,4 @@
-# Prework - *CodePath IOS-101 PREWORK*
+# Prework - *CodePath IOS-101*
 
 Submitted by: **Beteab Tefera**
 
