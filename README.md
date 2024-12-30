@@ -14,10 +14,7 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-
-Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
-
-[Guide]](https://www.youtube.com/watch?v=GA92eKlYio4) .
+<img src='https://github.com/BeteabTefera/codepath-ios-prework/blob/main/demo-mobile.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 ## Added Segment 
 - [x] Added Logo 
